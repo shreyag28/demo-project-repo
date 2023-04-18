@@ -41,7 +41,9 @@ public class HelloApp {
     public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello world!Merge Conflict demo");
-      System.out.println("on test");
+      System.out.println("on dev");
+     
+
 	   
   }
 }
